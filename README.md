@@ -1,5 +1,7 @@
 # JavaFX-asteroids
-School project.
+School project:
+"No you know how to work with bigger projects". 
+Every method & class <i>(I can't remember if we already used java classes to form objects here)</i> naming was quite copy paste stuff.
 
 Classic asteroids game. Project is in finnish language.
 
